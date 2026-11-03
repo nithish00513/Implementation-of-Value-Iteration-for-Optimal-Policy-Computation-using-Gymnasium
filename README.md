@@ -155,11 +155,8 @@ env.close()
 
 ## Output
 
-```
-<img width="720" height="601" alt="image" src="https://github.com/user-attachments/assets/310b07b0-662d-46d8-b3a2-7e92868cea2d" />
+<img width="762" height="632" alt="image" src="https://github.com/user-attachments/assets/cfd512f1-7679-47fa-b857-f12b9d5551cc" />
 
----
-```
 ## Result
 ```
 W4. Final Result for Record
